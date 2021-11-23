@@ -16,4 +16,18 @@ Command [Global Options] Subcommand [Subcommand] [Options] -stack=STACK_PATH/STA
 
 ```
 
+```zsh
+├── LICENSE
+├── Makefile
+├── README.md
+├── config
+├── modules
+├── script
+└── src
+    ├── envs
+    │   ├── dev
+    │   ├── prd
+    │   └── stg
+    └── stacks
+```
 
